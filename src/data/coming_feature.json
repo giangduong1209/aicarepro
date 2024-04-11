@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "image": "assets/images/feature/c-feature1.png",
+    "authorName": "robatfox",
+    "category": "art Work",
+    "title": "Waltercolor Emma Roberts NFT",
+    "dolarPrice":"3,459.32",
+    "ehtPrice": "1.569 BNB"
+  },
+  {
+    "id": 2,
+    "image": "assets/images/feature/c-feature2.png",
+    "authorName": "robatfox",
+    "category": "Painting",
+    "title": "Insdustrial Revolution 2.7 inc",
+    "dolarPrice":"3,459.32",
+    "ehtPrice": "15.69 BNB"
+  },
+  {
+    "id": 3,
+    "image": "assets/images/feature/c-feature3.png",
+    "authorName": "robatfox",
+    "category": "Drawing",
+    "title": "Neon District season one",
+    "dolarPrice":"3,459.32",
+    "ehtPrice": "5.69 BNB"
+  },
+  {
+    "id": 4,
+    "image": "assets/images/feature/c-feature4.png",
+    "authorName": "robatfox",
+    "category": "Water color",
+    "title": "Fish fantasy digital",
+    "dolarPrice":"3,459.32",
+    "ehtPrice": "169 BNB"
+  },
+  {
+    "id": 5,
+    "image": "assets/images/feature/c-feature5.png",
+    "authorName": "robatfox",
+    "category": "Digital Art",
+    "title": "Fish fantasy digital",
+    "dolarPrice":"3,459.32",
+    "ehtPrice": "169 BNB"
+  },
+  {
+    "id": 6,
+    "image": "assets/images/feature/c-feature6.png",
+    "authorName": "robatfox",
+    "category": "Drawing",
+    "title": "Elves of the North #5790 South #456565",
+    "dolarPrice":"3,459.32",
+    "ehtPrice": "169 BNB"
+  }
+  ,
+  {
+    "id": 7,
+    "image": "assets/images/feature/c-feature7.png",
+    "authorName": "robatfox",
+    "category": "Painting",
+    "title": "It can be used for document NFT",
+    "dolarPrice":"3,459.32",
+    "ehtPrice": "169 BNB"
+  }
+  ,
+  {
+    "id": 8,
+    "image": "assets/images/feature/c-feature8.png",
+    "authorName": "robatfox",
+    "category": "Oil Color",
+    "title": "Horse play barmy Oxford bonnet..",
+    "dolarPrice":"3,459.32",
+    "ehtPrice": "169 BNB"
+  }
+  ,
+  {
+    "id": 9,
+    "image": "assets/images/feature/c-feature9.png",
+    "authorName": "robatfox",
+    "category": "Water Color",
+    "title": "Neon District season one.",
+    "dolarPrice":"3,459.32",
+    "ehtPrice": "169 BNB"
+  }
+]

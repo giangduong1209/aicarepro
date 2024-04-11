@@ -1,0 +1,77 @@
+[
+    {
+        "id":1,
+        "image":"assets/images/feature/ftr1.png",
+        "autohr":"Jane Cooper",
+        "authorImage":"assets/images/feature/fa1.png",
+        "title":"Industrial Revolution",
+        "likeCount":2,
+        "ethPrice":"5.4 BNB"
+    },
+    {
+        "id":2,
+        "image":"assets/images/feature/ftr2.png",
+        "autohr":"Wade Warren",
+        "authorImage":"assets/images/feature/fa2.png",
+        "title":"Neon District Season One",
+        "likeCount":5,
+        "ethPrice":"4.4 BNB"
+    },
+    {
+        "id":3,
+        "image":"assets/images/feature/ftr3.png",
+        "autohr":"Esther Howard",
+        "authorImage":"assets/images/feature/fa3.png",
+        "title":"Horror art view",
+        "likeCount":10,
+        "ethPrice":"5.2 BNB"
+    },
+    {
+        "id":4,
+        "image":"assets/images/feature/ftr7.png",
+        "autohr":"Robert Fox",
+        "authorImage":"assets/images/feature/fa4.png",
+        "title":"Beautiful flowers bucket",
+        "likeCount":22,
+        "ethPrice":"5.4 BNB"
+    },
+    {
+        "id":5,
+        "image":"assets/images/feature/ftr5.png",
+        "autohr":"Eleanor Pena",
+        "authorImage":"assets/images/feature/fa5.png",
+        "title":"Art instuments",
+        "likeCount":15,
+        "ethPrice":"4.4 BNB"
+    },
+    {
+        "id":6,
+        "image":"assets/images/feature/ftr6.png",
+        "autohr":"Jane Cooper",
+        "authorImage":"assets/images/feature/fa6.png",
+        "title":"Hungry Eagle fly",
+        "likeCount":2,
+        "ethPrice":"5.4 BNB"
+    }
+    ,
+    {
+        "id":7,
+        "image":"assets/images/feature/ftr7.png",
+        "autohr":"Jacob Jones",
+        "authorImage":"assets/images/feature/fa7.png",
+        "title":"Nice colr combination",
+        "likeCount":2,
+        "ethPrice":"5.4 BNB"
+    },
+    {
+        "id":8,
+        "image":"assets/images/feature/ftr8.png",
+        "autohr":"Mokarram Hossain",
+        "authorImage":"assets/images/feature/fa8.png",
+        "title":"The most incient",
+        "likeCount":2,
+        "ethPrice":"5.4 BNB"
+    }
+
+
+]

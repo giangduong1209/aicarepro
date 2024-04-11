@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "image": "assets/images/author/t-author1.png",
+    "authorImage": "assets/images/feature/fa1.png",
+    "name": "Cameron Williamson",
+    "username": "@cameron20"
+  },
+  {
+    "id": 2,
+    "image": "assets/images/author/t-author2.png",
+    "authorImage": "assets/images/feature/fa2.png",
+    "name": "Esther Howard",
+    "username": "@estherh205"
+  },
+  {
+    "id": 3,
+    "image": "assets/images/author/t-author3.png",
+    "authorImage": "assets/images/feature/fa3.png",
+    "name": "Guy Hawkins",
+    "username": "@guyhawkinsft"
+  },
+  {
+    "id": 4,
+    "image": "assets/images/author/t-author4.png",
+    "authorImage": "assets/images/feature/fa4.png",
+    "name": "Leslie Alexander",
+    "username": "@eslie120ale"
+  },
+  {
+    "id": 5,
+    "image": "assets/images/author/t-author5.png",
+    "authorImage": "assets/images/feature/fa5.png",
+    "name": "Savannah Nguyen",
+    "username": "@savannah250"
+  },
+  {
+    "id": 6,
+    "image": "assets/images/author/t-author6.png",
+    "authorImage": "assets/images/feature/fa6.png",
+    "name": "Cameron Williamson",
+    "username": "@cameron20"
+  },
+  {
+    "id": 7,
+    "image": "assets/images/author/t-author7.png",
+    "authorImage": "assets/images/feature/fa7.png",
+    "name": "Robert Fox",
+    "username": "@foxaro263"
+  }
+  ,
+  {
+    "id": 8,
+    "image": "assets/images/author/t-author8.png",
+    "authorImage": "assets/images/feature/fa5.png",
+    "name": "Jacob Jones",
+    "username": "@jacobjon20"
+  }
+  ,
+  {
+    "id": 9,
+    "image": "assets/images/author/t-author1.png",
+    "authorImage": "assets/images/feature/fa7.png",
+    "name": "Wade Warren",
+    "username": "@savannah250"
+  }
+  ,
+  {
+    "id": 10,
+    "image": "assets/images/author/t-author8.png",
+    "authorImage": "assets/images/feature/fa7.png",
+    "name": "Wade Warren",
+    "username": "@savannah250"
+  }
+  ,
+  {
+    "id": 11,
+    "image": "assets/images/author/t-author7.png",
+    "authorImage": "assets/images/feature/fa6.png",
+    "name": "Wade Warren",
+    "username": "@savannah250"
+  },
+  {
+    "id": 12,
+    "image": "assets/images/author/t-author8.png",
+    "authorImage": "assets/images/feature/fa5.png",
+    "name": "Wade Warren",
+    "username": "@savannah250"
+  }
+]

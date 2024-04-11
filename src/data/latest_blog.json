@@ -1,0 +1,93 @@
+[
+    {
+        "id":1,
+        "image":"assets/images/blog/blogrid1.png",
+        "category":"Art Work",
+        "title":"Tranding #365: A Portrait of The Year That Changed Everything",
+        "date":"07 March 22",
+        "authorName":"Admin",
+        "comment":"05"
+
+    }
+    ,{
+        "id":2,
+        "image":"assets/images/blog/blogrid2.png",
+        "category":"Printing",
+        "title":"Christie’s Ended Up Selling For $69 Million In Nft Marketplace",
+        "date":"06 March 22",
+        "authorName":"Admin",
+        "comment":"08"
+
+    }
+    ,{
+        "id":3,
+        "image":"assets/images/blog/blogrid3.png",
+        "category":"Printing",
+        "title":"The Biggest Drop in times Square Since New Years Eve?",
+        "date":"23 March 2014",
+        "authorName":"Admin",
+        "comment":"5"
+
+    }
+    ,{
+        "id":4,
+        "image":"assets/images/blog/blogrid4.png",
+        "category":"Tranding #365: A Portrait of The Year That Changed Everything",
+        "title":"The Biggest Drop in times Square Since New Years Eve?",
+        "date":"02 april 22",
+        "authorName":"Admin",
+        "comment":"15"
+
+    }
+    ,{
+        "id":5,
+        "image":"assets/images/blog/blogrid5.png",
+        "category":"Water Color",
+        "title":"Digital Marketo to Their New Office Artist to hire.",
+        "date":"02 april 20, 2022",
+        "authorName":"Admin",
+        "comment":"12"
+
+    }
+    ,{
+        "id":6,
+        "image":"assets/images/blog/blogrid6.png",
+        "category":"Drawing",
+        "title":"Meet fennouni, Product Designer at GitHub",
+        "date":"02 april 20, 2022",
+        "authorName":"Admin",
+        "comment":"12"
+
+    }
+    ,{
+        "id":7,
+        "image":"assets/images/blog/blogrid7.png",
+        "category":"Color",
+        "title":"Tranding #365: A Portrait of The Year That Changed Everything",
+        "date":"02 May  2022",
+        "authorName":"Admin",
+        "comment":"1"
+
+    }
+    ,{
+        "id":8,
+        "image":"assets/images/blog/blogrid8.png",
+        "category":"Oil pastel",
+        "title":"Tranding #365: A Portrait of The Year That Changed Everything",
+        "date":"08 april 2022",
+        "authorName":"Admin",
+        "comment":"8"
+
+    }
+    ,{
+        "id":9,
+        "image":"assets/images/blog/blogrid9.png",
+        "category":"Gallery",
+        "title":"Tranding #365: A Portrait of The Year That Changed Everything",
+        "date":"02 april 2022",
+        "authorName":"Admin",
+        "comment":"12"
+
+    }
+   
+]

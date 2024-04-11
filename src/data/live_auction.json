@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "image":"assets/images/auction/act1.png",
+        "title":"Facial fantasy digital illustration",
+        "ETHPrice":"1.569 BNB",
+        "dolarPrice":"3,459.32",
+        "authorName":"robatfox"
+
+    },
+    {
+        "id": 2,
+        "image":"assets/images/auction/act2.png",
+        "title":"Black and gold makeup layout",
+        "ETHPrice":"2.5 BNB",
+        "dolarPrice":"4,49.2",
+        "authorName":"robatfox"
+
+    },
+    {
+        "id": 3,
+        "image":"assets/images/auction/act3.png",
+        "title":"Headless statue",
+        "ETHPrice":"2.69 BNB",
+        "dolarPrice":"459.32",
+        "authorName":"robatfox"
+
+    }
+    
+]
